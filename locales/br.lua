@@ -6,3 +6,4 @@ Locales['br'] = {
   ['help_whitelist_add']  = 'adicionar alguém à lista de permitidos(whitelist) no servidor',
   ['help_whitelist_load'] = 'recarregar a lista de permitidos(whitelist)',
 }
+
